@@ -1,0 +1,3 @@
+// My Scripts
+
+$('img').zoom({});
