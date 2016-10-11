@@ -1,3 +1,8 @@
 // My Scripts
+console.log('OK');
 
-$('img').zoom({});
+
+// activate plugin
+$('span').zoom({
+    on: 'click'
+});
